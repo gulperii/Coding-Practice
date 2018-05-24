@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-public class Infix2Postfix {
+public class InorderTo {
 	private Stack<String> theStack;
 	List<String> tokenList = new ArrayList<>();
 	private String output = "";
