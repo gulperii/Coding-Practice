@@ -1,2 +1,1 @@
-# practiceIt
-Solutions to some practiceit problems
+>Some coding exercises
