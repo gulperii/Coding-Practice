@@ -6,7 +6,7 @@ import java.awt.event.*;
 /*
  * A Viewer for Binary Trees.
  */
-public class BinaryTreeView extends JPanel {
+public class BinaryTreeDisplay extends JPanel {
 
     /**
 	 * 
